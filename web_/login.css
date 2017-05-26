@@ -1,0 +1,108 @@
+.wrap{
+	margin: 0 auto;
+	width: 85%;
+	font-family: Microsoft JhengHei;
+	color:#5B5B5B;
+}
+.header{
+	background: #FFFFFF;
+	position: relative;
+	top: -7px;
+	height: 100px;
+}
+.title{
+	height: 80px;
+	position: relative;
+	top:-10px;
+	padding: 10px 0px 10px 30px;
+	float: left;
+	color: #5B5B5B;
+}
+.title a{
+	color: #5B5B5B;
+	text-decoration: none;
+}
+/*登入||註冊白框架*/
+.login_box{
+	width: 300px;
+	background:  #FFFFFF;
+	margin: 0 auto;
+	margin-top: 20px;
+	border-radius: 30px;
+	text-align: center;
+	padding: 1px 0px 50px 0px;
+}
+
+.t1{
+	font-size: 26px;
+	/*line-height: 1em;*/
+}
+form{
+	text-align: left;
+	padding-left: 40px;
+}
+input{
+	-webkit-border-radius: 5px;
+	outline: none;
+	border:1px #9D9D9D solid;
+	width: 200px;
+	height: 40px;
+	padding-left: 15px;
+	font-size: 14px;
+}
+.button{
+	margin-right: 50px;
+	margin-top: 30px;
+
+}
+.enter{
+	width:100px;
+	height: 50px;
+	background: #53FF53;
+	float: left;
+	color:#FFFFFF;
+	font-family: Microsoft JhengHei;
+	font-size: 18px;
+	border: 1px #FFFFFF;
+	padding-left: 0px;
+}
+.enter:hover{
+	background: #00A600;
+}
+.reset{
+	width: 100px;
+	height: 50px;
+	background: #ff7575;
+	float: right;
+	color:#FFFFFF;
+	font-family: Microsoft JhengHei;
+	font-size: 18px;
+	border: 1px #FFFFFF;
+	padding-left: 0px;
+}
+.reset:hover{
+	background: #FF2D2D;
+}
+hr{
+	margin-left: -5px;
+	width: 220px;
+}
+p{
+	/*font-size: 1px;*/
+	font-family: Microsoft JhengHei;
+	color: 	#3C3C3C;
+}
+.bottom{
+	margin-top: 100px;
+}
+.footer{
+	width: 100%;
+	height: 100px;
+	background: gray;
+	color: #FFFFFF;
+	margin: 0 auto;
+	text-align: center;
+	font-family: Microsoft JhengHei;
+	padding-top: 50px;
+	margin-top: 100px;
+}

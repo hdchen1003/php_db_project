@@ -1,0 +1,100 @@
+.wrap{
+	margin: 0 auto;
+	width: 85%;
+	font-family: Microsoft JhengHei;
+	color:#5B5B5B;
+}
+.header{
+	background: #FFFFFF;
+	position: relative;
+	top: -7px;	
+	height: 100px;
+}
+.title{
+	height: 80px;
+	position: relative;
+	top:-10px;
+	padding: 10px 0px 10px 30px;
+	float: left;
+	color: #5B5B5B;
+}
+.title a{
+	color: #5B5B5B;
+	text-decoration: none;
+}
+/*成為主購*/
+.buyer{
+	border: 1px solid #3C3C3C;
+	padding: 10px;
+	float: left;
+	margin-top: 25px;
+	color: #3C3C3C;
+}
+.buyer a{
+	text-decoration: none;
+	color: #3C3C3C;
+	display: block;
+}
+.buyer:hover{
+	background: #5B5B5B;
+	color: #FFFFFF;
+	display: block;
+}
+.login{
+	background: #84C1FF;
+	text-align: center;
+	float: left;
+	width: 100px;
+	height: 65px;
+	margin-left: 20px;
+	padding-top: 35px;
+	font-size: 18px;
+}
+.login a{
+	text-decoration: none;
+	color: white;
+}
+.login:hover{
+	opacity: 0.7;
+}
+.title_right{
+	float: right;
+}
+
+.clear{
+	clear: both;
+}
+.enroll{
+	
+	border: 1px solid gray;
+	border-radius: 10px;
+	background: #FFFFFF;
+	width: 100px;
+	text-align: center;
+	padding: 8px;
+	text-decoration: none;
+	position: relative;
+	top: 300px;
+	left: 500px;
+	color: #3C3C3C;
+}
+.enroll a{
+	text-decoration: none;
+}
+.enroll:hover{
+	background: #3C3C3C;
+	color: #FFFFFF;
+	border: #FFFFFF;
+
+}
+.footer{
+	width: 100%;
+	height: 100px;
+	background: gray;
+	color: #FFFFFF;
+	margin: 0 auto;
+	text-align: center;
+	font-family: Microsoft JhengHei;
+	padding-top: 50px;
+	margin-top: 100px;
+}

@@ -1,0 +1,147 @@
+.wrap{
+	margin: 0 auto;
+	width: 85%;
+	font-family: Microsoft JhengHei;
+	color: #5B5B5B;
+}
+.header{
+	background: #FFFFFF;
+	position: relative;
+	top: -7px;	
+	height: 100px;
+}
+.title{
+	height: 80px;
+	position: relative;
+	top:-10px;
+	padding: 10px 0px 10px 30px;
+	float: left;
+	color: #5B5B5B;
+	float: left;
+}
+.title a{
+	color: #5B5B5B;
+	text-decoration: none;
+}
+.hello{
+	float: right;
+	background: #84C1FF;
+	text-align: center;
+	width: 150px;
+	height: 65px;
+	margin-left: 20px;
+	padding-top: 35px;
+	font-size: 16px;
+	color: #FFFFFF;
+}
+.menu_top{
+	background: #FFD1A4;
+	width: 100%;
+	height: 100px;
+	margin-top: 25px;	
+	margin-bottom: 30px;
+}
+.create{
+	width: 120px;
+	height: 35px;
+	background: #84C1FF;
+	border: 1px solid #FFFFFF;
+	border-radius: 10px;
+	text-align: center;
+	text-decoration: none;
+	padding: 20px 10px 10px 10px;
+	margin: 0px 10px 10px 80px;
+	font-size: 22px;
+	font-family: Microsoft JhengHei;
+	position: relative;
+	top: 15px;
+}
+.create a{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.create:hover{
+	background: #2894FF;
+}
+.menu{
+	float: left;
+	background: white;
+	width: 200px;
+	text-align: center;
+	margin-right: 20px;
+}
+.o_title{
+	text-align: center;
+	background: #FFD1A4;
+	color: #FFFFFF;
+	-webkit-margin-before: 0px;
+	-webkit-margin-after: 0px;
+	padding:15px 0px 15px 0px;
+}
+.menu ol{
+	list-style-type:none;
+	line-height: 50px;
+	font-size: 18px;
+	-webkit-padding-start:0px;
+}
+.menu li:hover{
+	background: #84C1FF;
+	color: white;
+}
+.hot{
+	float: right;
+	margin-bottom: 20px;
+	padding-bottom: :20px;
+}
+.hot_title{
+	background: #FFD1A4;
+	color: #FFFFFF;
+}
+.hot ol{
+	list-style-type:none;
+	font-size: 18px;
+	-webkit-padding-start:0px;
+}
+.hot li{
+	text-decoration: none;
+}
+.hot_box{
+	color: #5B5B5B;
+	float: left;
+	margin: 23px 30px 20px 23px;
+}
+.descrip{
+
+}
+.all_product{
+	float: left;
+	text-align: center;
+}
+.product_box{
+	color: #5B5B5B;
+	float: left;
+	margin: 23px 30px 20px 23px;
+}
+.all_product ol{
+	list-style-type:none;
+	font-size: 18px;
+	-webkit-padding-start:0px;
+}
+.all_product li{
+	text-decoration: none;
+	float: left;
+}
+.footer{
+	width: 100%;
+	height: 100px;
+	background: gray;
+	color: #FFFFFF;
+	margin: 0 auto;
+	text-align: center;
+	font-family: Microsoft JhengHei;
+	padding-top: 50px;
+	margin-top: 100px;
+}
+.clear{
+	clear: both;
+}
